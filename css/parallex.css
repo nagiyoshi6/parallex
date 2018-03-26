@@ -1,0 +1,29 @@
+div{
+  height:700px;
+  margin: 0;
+  padding: 0;
+  color: crimson;
+}
+
+h1{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.center{
+  width: 400px;
+  height:auto;
+  /* border:2px solid red; */
+  position: relative;
+  top:50%;
+  left:50%;
+  margin-top: -70px;
+  margin-left: -200px;
+}
